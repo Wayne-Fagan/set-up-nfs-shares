@@ -1,4 +1,4 @@
-# Setup NFS Share On Ubuntu 18.04 Desktop and Server
+# Setup A NFS Share On Ubuntu 18.04 Desktop and Server
 
 ### Server Configuration
 
